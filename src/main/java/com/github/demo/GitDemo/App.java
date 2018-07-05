@@ -7,7 +7,7 @@ package com.github.demo.GitDemo;
 public class App 
 {
 	public void addData(String data){
-		if(data.equals("sunil")){
+		if(data.equals(Constants.data)){
 			System.out.println("welcome sunil");
 		}
 			
